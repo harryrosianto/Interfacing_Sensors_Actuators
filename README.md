@@ -72,7 +72,7 @@ This schematic shows the wiring for interfacing sensors (a potentiometer and an 
 - **LED Brightness**: Adjusted via PWM duty cycle mapped from sensor values.
 
 
-### **5. How to COde**
+### **5. How to Code**
 
 This code interfaces two analog sensors and a servo motor, enabling control based on input readings. Below is a detailed explanation of the code:
 
